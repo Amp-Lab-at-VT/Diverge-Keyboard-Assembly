@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Diverge Keyboard Assembly
