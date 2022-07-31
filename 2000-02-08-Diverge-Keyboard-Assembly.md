@@ -21,7 +21,7 @@ Joseph Chen
 Batuhan Genc
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Diverge-Keyboard-Assembly"" >Diverge-Keyboard-Assembly</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Diverge-Keyboard-Assembly" >Diverge-Keyboard-Assembly</a>
 
 ## Photo
 
