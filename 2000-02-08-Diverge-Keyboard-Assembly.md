@@ -4,7 +4,7 @@ title: Diverge Keyboard Assembly
 description: Assembling a diverge keyboard
 date: 2000-02-08 09:00:00
 hero_image: /web/img/Diverge-Keyboard-Assembly/Hero.png
-image: /web/img/Diverge-Keyboard-Assembly/Hero.png
+# image /web/img/Diverge-Keyboard-Assembly/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
