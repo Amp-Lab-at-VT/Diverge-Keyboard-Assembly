@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Joseph Chen
-Batuhan Genc
+author: Joseph Chen, Batuhan Genc
 show_sidebar: false
 ---
 
